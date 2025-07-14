@@ -185,8 +185,8 @@ class _LoginPageState extends State<LoginPage> {
                   
 
                     if (
-                      (correo == "josue.v@unah.hn"  &&   contra == "12345678910") ||
-                      (correo == "marvip@unah.hn"  &&  contra =="20201234567" )) {
+                      (correo == "josue.v@unah.hn"  &&   contra == "20202001796") ||
+                      (correo == "marvip@unah.hn"  &&  contra =="20212020462" )) {
                       Navigator.push(context, MaterialPageRoute(builder: (context) => HomePage()),
                      // Navigator.pushReplacement(context,MaterialPageRoute(builder: (_) => HomePage()),
                       );
